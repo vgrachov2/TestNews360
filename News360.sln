@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News360", "News360\News360.csproj", "{20DF1B9B-EEDB-4C64-8482-F6D51660EFD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News360.Tests", "News360.Tests\News360.Tests.csproj", "{963F7C7D-FCEB-494C-8A8B-05FB1A072ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20DF1B9B-EEDB-4C64-8482-F6D51660EFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DF1B9B-EEDB-4C64-8482-F6D51660EFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DF1B9B-EEDB-4C64-8482-F6D51660EFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DF1B9B-EEDB-4C64-8482-F6D51660EFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963F7C7D-FCEB-494C-8A8B-05FB1A072ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963F7C7D-FCEB-494C-8A8B-05FB1A072ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963F7C7D-FCEB-494C-8A8B-05FB1A072ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963F7C7D-FCEB-494C-8A8B-05FB1A072ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
